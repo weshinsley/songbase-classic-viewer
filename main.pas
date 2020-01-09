@@ -117,8 +117,8 @@ var
   showing_extra : boolean;
 
   // My version.
-  version : String = '1.12';
-  version_internal : integer = 22;
+  version : String = '1.13';
+  version_internal : integer = 23;
 
   // The Songbase version I *need* to run safely.
   sbv_wanted : integer = 37;
